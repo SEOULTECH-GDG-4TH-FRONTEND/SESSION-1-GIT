@@ -8,5 +8,6 @@ GDG Frontend Session Week 1 Practice
 - GDG Frontend Member 오희진!
 - GDG Frontend Member 이지원!
 - GDG Frontend Member 이서인!
+- GDG Frontend Member 경인!
 - GDG Frontend Member 박지윤!
 
