@@ -13,4 +13,4 @@ GDG Frontend Session Week 1 Practice
 - GDG Frontend Member 이서인!
 - GDG Frontend Member 경인!
 - GDG Frontend Member 박지윤!
-
+- GDG Frontend Member 신민규!
